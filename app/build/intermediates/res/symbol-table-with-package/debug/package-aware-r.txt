@@ -22,6 +22,7 @@ id start_alipay
 id start_qq
 id start_wechat
 id title_divider
+id tv_pzxx
 id tv_top_title
 layout activity_main
 layout activity_setting

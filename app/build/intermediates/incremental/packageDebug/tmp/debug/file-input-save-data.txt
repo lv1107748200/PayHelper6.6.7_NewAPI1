@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Dec 12 17:12:01 CST 2018
+#Wed Dec 12 17:25:15 CST 2018
 1.base=E\:\\Internet\\Other\\PayHelper6.6.7_NewAPI1\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY

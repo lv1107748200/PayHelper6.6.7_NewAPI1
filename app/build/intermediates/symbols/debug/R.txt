@@ -21,7 +21,8 @@ int id start_alipay 0x7f03000d
 int id start_qq 0x7f03000e
 int id start_wechat 0x7f03000f
 int id title_divider 0x7f030010
-int id tv_top_title 0x7f030011
+int id tv_pzxx 0x7f030011
+int id tv_top_title 0x7f030012
 int layout activity_main 0x7f040000
 int layout activity_setting 0x7f040001
 int menu main 0x7f050000

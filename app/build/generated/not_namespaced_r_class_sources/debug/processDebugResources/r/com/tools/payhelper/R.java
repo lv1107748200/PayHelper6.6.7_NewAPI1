@@ -36,7 +36,8 @@ public final class R {
     public static final int start_qq=0x7f03000e;
     public static final int start_wechat=0x7f03000f;
     public static final int title_divider=0x7f030010;
-    public static final int tv_top_title=0x7f030011;
+    public static final int tv_pzxx=0x7f030011;
+    public static final int tv_top_title=0x7f030012;
   }
   public static final class layout {
     public static final int activity_main=0x7f040000;

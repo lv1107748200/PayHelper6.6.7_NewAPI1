@@ -37,6 +37,8 @@ import android.view.WindowManager;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
+import static com.tools.payhelper.WebServer.RETURNURL;
+
 /**
  * 
 
@@ -53,7 +55,7 @@ public class MainActivity extends Activity {
 	public static final String NOTIFYURL = "http://m.pay-hf.com/notify/";
 	public static final String SIGNKEY = "123456789";
 
-	public static TextView console;
+	public static TextView console,tv_pzxx;
 	private static ScrollView scrollView;
 	private BillReceived billReceived;
 	private AlarmReceiver alarmReceiver;
@@ -76,7 +78,14 @@ public class MainActivity extends Activity {
 		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON); 
 		setContentView(R.layout.activity_main);
 		console=(TextView) findViewById(R.id.console);
+		tv_pzxx=(TextView) findViewById(R.id.tv_pzxx);
 		scrollView=(ScrollView) findViewById(R.id.scrollview);
+
+		tv_pzxx.setText("程序配置信息" + "\n\n" +"同步地址: "+RETURNURL
+				+ "\n\n" +"异步地址: "+NOTIFYURL
+				+ "\n\n" +"signkey: "+SIGNKEY
+		);
+
 		try {
 			mVideoServer=new WebServer(this,WEBSEERVER_PORT);
             mVideoServer.start();
