@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2c36202e1b3fc1ff229cfb7cca2955e0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\6c9ba31edd77c1b503561533ee869690\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1423ed18030e42f566352a54f141e46a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fe648a78a0dcc08b795a0f3344405929\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\06d4f019305e1a72fd533378ef860e63\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:6:5-31
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:9:5-10:47
+	tools:ignore
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:9:22-82
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_SUPERUSER
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.INTERNET
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:18:22-64
+application
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:22:5-56:19
+MERGED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2c36202e1b3fc1ff229cfb7cca2955e0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2c36202e1b3fc1ff229cfb7cca2955e0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\6c9ba31edd77c1b503561533ee869690\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\6c9ba31edd77c1b503561533ee869690\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1423ed18030e42f566352a54f141e46a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1423ed18030e42f566352a54f141e46a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fe648a78a0dcc08b795a0f3344405929\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fe648a78a0dcc08b795a0f3344405929\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\06d4f019305e1a72fd533378ef860e63\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\06d4f019305e1a72fd533378ef860e63\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:27:9-60
+activity#com.tools.payhelper.MainActivity
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:30:13-45
+	android:launchMode
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:29:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.tools.payhelper.SettingActivity
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:37:10-42:20
+	android:label
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:41:13-48
+	android:theme
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:40:13-66
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:38:13-63
+service#com.tools.payhelper.DaemonService
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:43:3-46:47
+	android:process
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:46:12-45
+	android:enabled
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:44:11-33
+	android:exported
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:45:12-36
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:43:12-41
+meta-data#xposedmodule
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:47:10-49:36
+	android:value
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:49:13-33
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:48:13-40
+meta-data#xposeddescription
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:50:9-52:48
+	android:value
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:51:13-45
+meta-data#xposedminversion
+ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:53:9-55:34
+	android:value
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:55:13-31
+	android:name
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml:54:13-44
+uses-sdk
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2c36202e1b3fc1ff229cfb7cca2955e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2c36202e1b3fc1ff229cfb7cca2955e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\6c9ba31edd77c1b503561533ee869690\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\6c9ba31edd77c1b503561533ee869690\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1423ed18030e42f566352a54f141e46a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1423ed18030e42f566352a54f141e46a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fe648a78a0dcc08b795a0f3344405929\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fe648a78a0dcc08b795a0f3344405929\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\06d4f019305e1a72fd533378ef860e63\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\06d4f019305e1a72fd533378ef860e63\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+		ADDED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Internet\Other\PayHelper6.6.7_NewAPI1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2c36202e1b3fc1ff229cfb7cca2955e0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2c36202e1b3fc1ff229cfb7cca2955e0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\6c9ba31edd77c1b503561533ee869690\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\6c9ba31edd77c1b503561533ee869690\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1423ed18030e42f566352a54f141e46a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1423ed18030e42f566352a54f141e46a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fe648a78a0dcc08b795a0f3344405929\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fe648a78a0dcc08b795a0f3344405929\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\06d4f019305e1a72fd533378ef860e63\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\06d4f019305e1a72fd533378ef860e63\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ecbd424ceb3cd1dae6ca100d12afce1d\AndroidManifest.xml:26:9-47
